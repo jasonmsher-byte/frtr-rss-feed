@@ -53,6 +53,17 @@ This episode was produced with AI-assisted tools including AI-generated voice de
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Pentagon&apos;s Deadline Just Hit. America Still Can&apos;t Mine Its Own AI Chips.</title>
+      <description><![CDATA[Today the Pentagon's deadline for critical minerals supply proposals expired. The same week, NVIDIA announced $1 trillion in AI chip orders through 2027. Every chip requires minerals America doesn't produce. The gap has never been wider. Hosts Jason Sher and Shane Smith break down the collision between AI demand, mineral supply, and geopolitics. This podcast is AI-generated and produced by Flova AI for Alera Group.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-20.mp3" length="8966521" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-20-pentagon-minerals-deadline</guid>
+      <pubDate>Fri, 20 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>373</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

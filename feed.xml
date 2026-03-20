@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>From Rocks to Rockets</title>
+    <link>https://www.aleragroup.com</link>
+    <atom:link href="https://jasonmsher-byte.github.io/frtr-rss-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>&#xA9; 2026 Alera Group</copyright>
+    <description>From Rocks to Rockets by Alera Group is an AI-powered podcast exploring the industries building the future — from power, critical minerals, and data centers to AI infrastructure, bitcoin mining, nuclear, robotics, and aerospace. We cover the hidden physical systems behind the next industrial era and explain how raw materials become the technologies shaping tomorrow. For builders, investors, and operators who want to understand where the world is really headed. The future won't be built in code alone.</description>
+    <itunes:author>Alera Group</itunes:author>
+    <itunes:owner>
+      <itunes:name>Jason Sher</itunes:name>
+      <itunes:email>jasonmsher@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/cover.png"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked>no</podcast:locked>
+
+    <!-- EPISODES START -->
+    <item>
+      <title>Your Old Servers Are a Gold Mine — Literally</title>
+      <description><![CDATA[Korea Zinc is in talks with US tech companies to extract rare earth elements from retired data center hardware — and building a $7.4 billion smelter in Tennessee to process it.
+
+From Rocks to Rockets by Alera Group — the podcast about the industries building the future. New episodes daily covering AI infrastructure, data centers, critical minerals, nuclear/SMRs, energy, robotics, aerospace, and the geopolitics connecting all of it.
+
+Chapters:
+0:00 Cold Open
+0:07 Intro
+0:28 The Big Reveal — Korea Zinc
+1:01 Rare Earths Inside Your Servers
+1:45 Korea Zinc's $7.4B Smelter
+2:25 Pentagon Critical Mineral Scramble
+3:09 US-China Rare Earth Geopolitics
+4:18 The Circular Supply Chain
+5:25 The Country That Wins
+6:09 Outro
+
+This episode was produced with AI-assisted tools including AI-generated voice delivery and visuals. All content, research, and editorial direction by Jason Sher and Shane Smith.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-17.mp3" length="4793788" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-17-korea-zinc</guid>
+      <pubDate>Tue, 17 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>388</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <!-- EPISODES END -->
+
+  </channel>
+</rss>

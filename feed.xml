@@ -64,6 +64,17 @@ This episode was produced with AI-assisted tools including AI-generated voice de
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>AI Just Hit a Wall. So They&apos;re Building Data Centers in Space.</title>
+      <description><![CDATA[The U.S. power grid can't keep up with AI demand — 241 gigawatts in the pipeline, only a third under active development. This week NVIDIA unveiled Space-1 Vera Rubin at GTC 2026, chips built for orbital data centers. SpaceX-xAI's .25 trillion merger is targeting AI compute in orbit. From Rocks to Rockets by Alera Group — the podcast about the industries building the future. Note: This podcast is produced using AI voice synthesis technology.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-21.mp3" length="6409447" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-21-space-data-centers</guid>
+      <pubDate>Sat, 21 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>400</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

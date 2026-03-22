@@ -64,20 +64,21 @@ def set_base_url(base_url):
     print(f"Base URL set to: {base_url}")
 
 
-def add_episode(title, description, audio_url, audio_size, duration, episode_num, guid, pub_date):
-    """Add a new episode to the feed."""
+def add_episode(title, description, audio_url, audio_size, duration, episode_num, guid, pub_date, episode_type="full"):
+    """Add a new episode to the feed. episode_type can be 'full', 'trailer', or 'bonus'."""
     content = read_feed()
     
     # Build the new episode item
+    # For trailers/clips, omit episode number so they don't mess up numbering
+    episode_num_tag = f"\n      <itunes:episode>{episode_num}</itunes:episode>" if episode_type == "full" else ""
     item = f"""    <item>
       <title>{escape_xml(title)}</title>
       <description><![CDATA[{description}]]></description>
       <enclosure url="{audio_url}" length="{audio_size}" type="audio/mpeg"/>
       <guid isPermaLink="false">{guid}</guid>
       <pubDate>{pub_date}</pubDate>
-      <itunes:duration>{duration}</itunes:duration>
-      <itunes:episode>{episode_num}</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>{duration}</itunes:duration>{episode_num_tag}
+      <itunes:episodeType>{episode_type}</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <!-- EPISODES END -->"""
@@ -118,6 +119,8 @@ if __name__ == "__main__":
     parser.add_argument("--episode-num", type=int)
     parser.add_argument("--guid", type=str)
     parser.add_argument("--pub-date", type=str)
+    parser.add_argument("--episode-type", type=str, default="full", choices=["full", "trailer", "bonus"],
+                        help="Episode type: full (default), trailer (for clips), or bonus")
     
     args = parser.parse_args()
     
@@ -131,4 +134,4 @@ if __name__ == "__main__":
             sys.exit(1)
         ep_num = args.episode_num or get_next_episode_number()
         add_episode(args.title, args.description, args.audio_url, args.audio_size,
-                    args.duration, ep_num, args.guid, args.pub_date)
+                    args.duration, ep_num, args.guid, args.pub_date, args.episode_type)

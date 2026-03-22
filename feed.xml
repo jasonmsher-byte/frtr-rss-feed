@@ -88,6 +88,17 @@ From Rocks to Rockets is AI-produced using our cloned voices. The research, the 
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The 48-Hour Ultimatum. Trump Just Threatened to Bomb a Nuclear Reactor.</title>
+      <description><![CDATA[The Iran war just crossed every red line in the energy playbook. Oil is over 110 dollars a barrel, the Strait of Hormuz is effectively closed, and Trump has threatened to strike an operating nuclear reactor -- starting with Bushehr. In the same 24 hours, nuclear facilities on both sides were targeted for the first time in history. Here is what it means for data centers, defense, critical minerals, and every industry building the future. From Rocks to Rockets by Alera Group -- the podcast about the industries building the future. This episode was produced with AI voice synthesis and AI-assisted research.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-22.mp3" length="9325130" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-22-48-hour-ultimatum</guid>
+      <pubDate>Sun, 22 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>388</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

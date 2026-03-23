@@ -111,6 +111,53 @@ From Rocks to Rockets is AI-produced using our cloned voices. The research, the 
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Coal Plants Are Becoming Nuclear Reactors. Pennsylvania Just Signed the Deal.</title>
+      <description><![CDATA[X-energy and Talen Energy just signed a letter of intent to deploy multiple XE-100 small modular reactor plants across Pennsylvania and the PJM grid market. The plan: convert existing fossil-fired power stations into nuclear sites. Talen already supplies 1,920 MW of nuclear power to Amazon from Susquehanna. X-energy is developing 11+ GW of new nuclear capacity across US and UK partnerships.
+
+Chapters:
+0:00 Intro
+0:30 The Deal -- X-energy and Talen Energy
+1:30 Talen's Nuclear-to-Data-Center Pipeline
+2:30 The Conversion Play -- Fossil to Fission
+3:30 XE-100 Reactor Specs and TRISO Fuel
+4:15 11 Gigawatts of American Nuclear
+5:00 Data Center Demand Across PJM
+5:45 The Thesis -- Convert the Grid
+6:15 Outro
+
+From Rocks to Rockets is AI-produced using our cloned voices. The research, the analysis, and the opinions are ours. Alera Group -- Emerging Industries.
+
+Website: https://rockstorocket.com
+Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-23.mp3" length="5390880" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-23-nuclear-smr-pennsylvania</guid>
+      <pubDate>Mon, 23 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>337</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Coal Plants Going Nuclear | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Pennsylvania just signed the deal that turns coal plants into nuclear reactors. And the company behind it already powers Amazon's data centers. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-23-clip-1.mp3" length="321035" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-23-clip-1</guid>
+      <pubDate>Mon, 23 Mar 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>20</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>You Can&apos;t Melt This Fuel | From Rocks to Rockets Clip</title>
+      <description><![CDATA[TRISO particle fuel -- uranium coated in layers of carbon and ceramic. X-energy says you physically cannot have a meltdown with this design. And they can be factory-built. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-23-clip-2.mp3" length="641192" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-23-clip-2</guid>
+      <pubDate>Mon, 23 Mar 2026 08:04:00 -0400</pubDate>
+      <itunes:duration>40</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

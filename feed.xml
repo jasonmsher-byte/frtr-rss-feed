@@ -205,6 +205,26 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Live From the Show Floor — SAT Show 2026</title>
+      <description><![CDATA[<p>Jason and Shane are at SATShow 2026 in Washington DC — the world's largest satellite conference — where every conversation is shaped by the Iran crisis and the future of space-based connectivity. From Amazon's race to launch 1,600 satellites by July, to the $42 billion debris problem, to Lloyd's of London offering 'safe driver discounts' for satellites, to the SES-Lynk-Omnispace merger creating direct-to-device connectivity for a billion people — this special episode breaks down why the satellite industry is now central to everything From Rocks to Rockets covers.</p><p>🌐 rockstorocket.com</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-23-satshow.mp3" length="11218485" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-23-sat-show-special</guid>
+      <pubDate>Mon, 23 Mar 2026 14:00:00 +0000</pubDate>
+      <itunes:duration>467</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The War for Your Phone</title>
+      <description><![CDATA[<p>Day Two at the SAT Show in Washington DC. Jason and Shane break down the four-way battle for direct-to-device satellite connectivity — Starlink's 650 D2C satellites vs AST SpaceMobile's basketball-court-sized arrays vs Amazon Leo's FCC deadline crisis vs the SES-Lynk-Omnispace merger creating a multi-orbit D2D powerhouse. Rick Freeman's quiet exit from Amazon, the FCC slamming Kuiper for asking for a 24-month extension while blocking SpaceX, AST's ironic dependence on SpaceX launches, and why nobody has a standard insurance form for constellation concentration risk, regulatory license uncertainty, or the counter-party web where every company is simultaneously customer and competitor.</p><p>🌐 rockstorocket.com</p><p><em>From Rocks to Rockets is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts. Alera Group — Emerging Industries.</em></p>]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-24-satshow.mp3" length="10775866" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-24-sat-show-day2</guid>
+      <pubDate>Tue, 24 Mar 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>448</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

@@ -158,6 +158,53 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The World&apos;s Biggest Robot Maker Just Bet $90 Million on Michigan.</title>
+      <description><![CDATA[FANUC America announced a $90 million investment to build an 840,000 sq ft robot manufacturing facility in Michigan. The world's largest robotics company has invested nearly $300 million in the US since 2019, creating over 700 jobs. With 500,000 manufacturing positions unfilled and 31% of automakers accelerating robotics investment, the machines that build the machines are now being built in America.
+
+Chapters:
+0:00 Intro
+0:30 FANUC's $90 Million Michigan Bet
+1:30 $300 Million Invested Since 2019
+2:30 Three Forces: Reshoring, Labor, Physical AI
+3:30 The Reshoring Supply Chain Problem
+4:15 Every Factory Needs Robots
+5:00 FANUC Academy and Workforce Development
+5:30 The Thesis -- Machines That Build Machines
+5:45 Outro
+
+From Rocks to Rockets is AI-produced using our cloned voices. The research, the analysis, and the opinions are ours. Alera Group -- Emerging Industries.
+
+Website: https://rockstorocket.com
+Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-24.mp3" length="6678821" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-24-fanuc-robot-manufacturing</guid>
+      <pubDate>Tue, 24 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>278</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ninety Million Dollar Robot Factory | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The world's biggest robot maker just dropped ninety million dollars on a factory in Michigan. And it's not making cars. It's making the machines that make everything else. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-24-clip-1.mp3" length="289270" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-24-clip-1</guid>
+      <pubDate>Tue, 24 Mar 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>18</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Reshoring the Reshoring Supply Chain | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The supply chain for reshoring is itself being reshored. When Intel builds a fab in Ohio or TSMC expands in Arizona, they need thousands of precision robots and automation systems. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-24-clip-2.mp3" length="560944" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-24-clip-2</guid>
+      <pubDate>Tue, 24 Mar 2026 08:04:00 -0400</pubDate>
+      <itunes:duration>35</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

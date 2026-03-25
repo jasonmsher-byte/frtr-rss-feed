@@ -257,34 +257,13 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>America Just Became Self-Sufficient in Grid Batteries.</title>
-      <description><![CDATA[Eighteen months ago, the US had zero domestic grid battery cell production. Today: 100% self-sufficiency. LG, GM, Samsung, and Ford pivoted idle EV factories to grid-scale storage. 70 GWh of capacity and climbing to 145 GWh. This is the fastest industrial pivot in American history — and it arrives exactly when AI data centers need it most. From Rocks to Rockets by Alera Group. New episodes daily. This show is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.]]></description>
-      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-25.mp3" length="9353342" type="audio/mpeg"/>
-      <guid isPermaLink="false">frtr-2026-03-25-grid-batteries</guid>
-      <pubDate>Tue, 25 Mar 2026 08:00:00 -0400</pubDate>
-      <itunes:duration>390</itunes:duration>
-      <itunes:episode>16</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Zero to Self-Sufficient in 18 Months | From Rocks to Rockets Clip</title>
-      <description><![CDATA[America went from zero to 100% grid battery self-sufficiency in 18 months. Full episode available now.]]></description>
-      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-25-clip-1.mp3" length="721022" type="audio/mpeg"/>
-      <guid isPermaLink="false">frtr-2026-03-25-clip-1</guid>
-      <pubDate>Tue, 25 Mar 2026 08:01:00 -0400</pubDate>
-      <itunes:duration>45</itunes:duration>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Batteries Are AI Infrastructure | From Rocks to Rockets Clip</title>
-      <description><![CDATA[Grid batteries aren't just an energy play — they're AI infrastructure. Every data center needs them. Full episode available now.]]></description>
-      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-25-clip-2.mp3" length="960931" type="audio/mpeg"/>
-      <guid isPermaLink="false">frtr-2026-03-25-clip-2</guid>
-      <pubDate>Tue, 25 Mar 2026 08:02:00 -0400</pubDate>
-      <itunes:duration>60</itunes:duration>
-      <itunes:episodeType>trailer</itunes:episodeType>
+      <title>The Infrastructure Underneath It All — SAT Show Day 3</title>
+      <description><![CDATA[Day Three at the SAT Show in Washington DC. Jason and Shane break down the biggest themes from Wednesday: ST Engineering iDirect's live 5G NR-NTN demo proving hybrid satellite-terrestrial connectivity works, Bridgit Mendler's Northwood Space closing keynote on solving the ground segment bottleneck with mass-producible ground stations backed by a $100M raise and a $49M Space Force contract, the Via Satellite Awards, in-flight connectivity going multi-orbit, and two satellite cybersecurity bills moving through the Senate. Day three's message: the infrastructure underneath the constellation race — 5G standards, ground stations, and cyber hardening — is where the real opportunity is.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-25-satshow.mp3" length="5601114" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-25-sat-show-day3</guid>
+      <pubDate>Wed, 25 Mar 2026 15:00:00 +0000</pubDate>
+      <itunes:duration>350</itunes:duration>
+      <itunes:episodeType>bonus</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <!-- EPISODES END -->

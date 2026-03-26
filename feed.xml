@@ -266,6 +266,53 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>bonus</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Jeff Bezos Wants to Put Data Centers in Space.</title>
+      <description><![CDATA[Blue Origin filed with the FCC for permission to launch 51,600 satellites into low Earth orbit to serve as orbital data centers for AI computation. Project Sunrise would move AI compute off Earth — powered by solar, cooled by vacuum, no grid connection needed. A companion constellation called TeraWave (5,408 satellites) would beam data back to Earth. The AI boom is so massive it is running out of room on the ground. The next frontier is orbit.
+
+Chapters:
+0:00 Intro
+0:35 51,600 Satellites
+1:10 The AI Buildout Wall
+1:44 Community Pushback
+2:18 Blue Origin Answer
+2:53 Project Sunrise Details
+3:27 TeraWave Data Highway
+4:02 The Thesis
+4:36 Outro
+
+This show is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.
+
+Website: https://rockstorocket.com
+Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-26.mp3" length="7530204" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-26-space-data-centers</guid>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>314</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>51,600 Satellites That Are Data Centers | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Blue Origin just asked the FCC for permission to launch 51,600 orbital data centers. Not broadband. Not comms. AI compute in space. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-26-clip-1.mp3" length="641192" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-26-clip-1</guid>
+      <pubDate>Thu, 26 Mar 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>40</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Earth Is Not Big Enough for AI | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The AI boom is running out of room on Earth. The companies with the rockets are becoming the landlords of the next computing platform. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-26-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-26-clip-2</guid>
+      <pubDate>Thu, 26 Mar 2026 08:03:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

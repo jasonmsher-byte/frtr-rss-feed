@@ -313,6 +313,53 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>$40 Billion. Ten Reactors. The Biggest Nuclear Bet in American History.</title>
+      <description><![CDATA[The US and Japan committed $40 billion to deploy 10 GE Vernova Hitachi BWRX-300 small modular reactors across Tennessee and Alabama, delivering 3 gigawatts of new nuclear capacity. The deal is part of a $550 billion bilateral trade framework. The primary purpose: powering the AI data center buildout with firm, carbon-free baseload electricity.
+
+Chapters:
+0:00 Intro
+0:34 $40 Billion Nuclear Bet
+1:07 GE Vernova Hitachi SMR
+1:41 US-Japan Energy Partnership
+2:14 SMRs: Factory-Built Nuclear
+2:48 Tennessee and Alabama Sites
+3:21 Big Tech Goes Nuclear
+3:55 The Thesis: Nuclear Renaissance
+4:28 Outro
+
+This show is AI-produced using cloned voice synthesis. The research, analysis, and opinions are those of the hosts.
+
+Website: https://rockstorocket.com
+Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-27.mp3" length="7241185" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-27-nuclear-smr-40-billion</guid>
+      <pubDate>Fri, 27 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>301</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>$40 Billion for Nuclear Reactors | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The US and Japan committed $40 billion to build 10 small modular reactors in Tennessee and Alabama. 3 gigawatts of new nuclear power. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-27-clip-1.mp3" length="560944" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-27-clip-1</guid>
+      <pubDate>Fri, 27 Mar 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>35</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Reactors Are Small. The Bet Is Enormous. | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The nuclear renaissance is not a talking point. It is under construction. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-27-clip-2.mp3" length="817153" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-27-clip-2</guid>
+      <pubDate>Fri, 27 Mar 2026 08:03:00 -0400</pubDate>
+      <itunes:duration>51</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

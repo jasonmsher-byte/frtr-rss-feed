@@ -360,6 +360,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Military Bases Are Becoming America&apos;s Next Data Centers</title>
+      <description><![CDATA[The U.S. Army just conditionally selected Carlyle and CyrusOne — backed by KKR and BlackRock — to build commercial hyperscale data centers on underutilized military land at Fort Bliss, Texas and Dugway Proving Ground, Utah. No cost to taxpayers. Fort Bliss targets initial operating capability by FY2027. The biggest bottleneck in AI infrastructure isn't chips — it's permitted, secured, grid-connected land. Military bases solve all three problems. From Rocks to Rockets by Alera Group. This show is produced with the help of AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-28.mp3" length="5411360" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-28-military-bases-data-centers</guid>
+      <pubDate>Sat, 28 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>338</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Wall Street Just Got the Keys to Army Bases | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Carlyle and CyrusOne just got selected to build hyperscale data centers on U.S. military bases. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-28-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-28-clip-1</guid>
+      <pubDate>Sat, 28 Mar 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>25 Million Acres Nobody Talked About | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The biggest bottleneck in AI infrastructure isn't chips — it's land. And the DOD controls 25 million acres of it. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-28-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-28-clip-2</guid>
+      <pubDate>Sat, 28 Mar 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

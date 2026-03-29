@@ -391,6 +391,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>$3 Trillion. 866 Projects. Only 16% Have Broken Ground.</title>
+      <description><![CDATA[America is in the middle of the largest industrial construction wave since World War II. Between January 2025 and March 2026, companies announced $1.4 trillion in planned U.S. manufacturing investment. The megaproject backlog hit $3 trillion -- 866 projects, each over $1 billion. Only 16% have started construction. Every industry building the future is competing for the same concrete, steel, and electricians. The bottleneck has shifted from capital to construction. From Rocks to Rockets by Alera Group. This show is produced with the help of AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-29.mp3" length="5182736" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-29-capex-supercycle-megaprojects</guid>
+      <pubDate>Sun, 29 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>323</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>$3 Trillion and Only 16% Started | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Three trillion dollars. 866 megaprojects. Only 16% have broken ground. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-29-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-29-clip-1</guid>
+      <pubDate>Sun, 29 Mar 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Every Industry Is Competing for the Same Resources | From Rocks to Rockets Clip</title>
+      <description><![CDATA[AI, semiconductors, nuclear, batteries, defense -- all competing for the same concrete, steel, and electricians. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-29-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-29-clip-2</guid>
+      <pubDate>Sun, 29 Mar 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

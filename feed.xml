@@ -422,6 +422,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>$19 Billion in 60 Days. The Robots Are Coming Faster Than You Think.</title>
+      <description><![CDATA[In January and February 2026, robotics companies raised $19.3 billion. Apptronik closed $520M at a $5B valuation for humanoid robots. Bedrock Robotics raised $270M for autonomous construction. Waabi raised $1B for autonomous trucking and Uber robotaxis. Physical AI is the missing piece for Americas industrial buildout. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-30.mp3" length="5171870" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-30-robotics-funding-physical-ai</guid>
+      <pubDate>Mon, 30 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>323</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>$19 Billion in 60 Days for Robots | From Rocks to Rockets Clip</title>
+      <description><![CDATA[$19.3 billion poured into robotics in just two months. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-30-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-30-clip-1</guid>
+      <pubDate>Mon, 30 Mar 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>$80,000 for a Humanoid Robot | From Rocks to Rockets Clip</title>
+      <description><![CDATA[When a humanoid robot costs less than one year of salary, the math changes for every manufacturer. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-30-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-30-clip-2</guid>
+      <pubDate>Mon, 30 Mar 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

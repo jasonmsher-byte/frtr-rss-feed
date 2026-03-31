@@ -453,6 +453,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>$370 Billion. Every Major Drugmaker Is Building Factories in America.</title>
+      <description><![CDATA[The largest single-industry reshoring wave in American history is pharmaceuticals. Over the next five years, drugmakers have committed more than $370 billion to U.S. manufacturing. Eli Lilly: $55B. Merck: $70B+. Pfizer: $70B. Roche: $50B. AstraZeneca: $50B. Novartis: $23B. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-31.mp3" length="4781078" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-31-pharma-reshoring-370b</guid>
+      <pubDate>Tue, 31 Mar 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>298</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>$370 Billion Pharma Reshoring Wave | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Every major drugmaker is building factories in America. $370 billion committed. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-31-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-31-clip-1</guid>
+      <pubDate>Tue, 31 Mar 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Not Chips. Pills. The Biggest Reshoring | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The largest reshoring wave in America is not semiconductors. It is pharmaceuticals. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-03-31-clip-2.mp3" length="1201257" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-03-31-clip-2</guid>
+      <pubDate>Tue, 31 Mar 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>75</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

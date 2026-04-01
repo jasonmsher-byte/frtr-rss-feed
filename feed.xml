@@ -484,6 +484,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>128 Weeks. That Is How Long It Takes to Get a Transformer.</title>
+      <description><![CDATA[Power transformer demand in America has surged 119% since 2019. Lead times exceed 128 weeks. Wood Mackenzie estimates a 30% supply shortfall. More than 40 million distribution transformers are past their service life. Transformers are the hidden chokepoint of the entire American industrial buildout. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-01.mp3" length="4326756" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-01-transformer-shortage-chokepoint</guid>
+      <pubDate>Wed, 01 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>270</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>128 Weeks for a Transformer | From Rocks to Rockets Clip</title>
+      <description><![CDATA[128 weeks to get a large power transformer. Demand up 119%. Supply short 30%. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-01-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-01-clip-1</guid>
+      <pubDate>Wed, 01 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>40 Million Transformers Past Expiration | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Over half of US distribution transformers are past their service life. The supply deficit is 30%. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-01-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-01-clip-2</guid>
+      <pubDate>Wed, 01 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

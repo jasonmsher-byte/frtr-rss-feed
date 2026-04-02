@@ -515,6 +515,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>$3.4 Trillion. Americas Water Pipes Are Failing.</title>
+      <description><![CDATA[America needs $3.4 trillion over 20 years to fix its water infrastructure. The funding gap is $2 trillion. ASCE grades: C- to D. Federal investment dropped from $25 billion (1981) to $4 billion (2021). IIJA funding expires September 2026. Every data center, chip fab, and pharma plant depends on water. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-02.mp3" length="4792363" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-02-water-infrastructure-crisis</guid>
+      <pubDate>Thu, 02 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>299</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>$3.4 Trillion Water Crisis | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Americas water infrastructure is graded C- to D. $3.4 trillion needed. $2 trillion gap. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-02-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-02-clip-1</guid>
+      <pubDate>Thu, 02 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>50-Year-Old Pipes Under New Factories | From Rocks to Rockets Clip</title>
+      <description><![CDATA[We are building the most advanced factories in the world on top of 50-year-old water pipes. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-02-clip-2.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-02-clip-2</guid>
+      <pubDate>Thu, 02 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

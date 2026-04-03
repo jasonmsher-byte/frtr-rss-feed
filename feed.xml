@@ -546,6 +546,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>40 Billion Pounds of Copper. Buried Under Arizona. Just Unlocked.</title>
+      <description><![CDATA[Resolution Copper, the largest untapped copper deposit in North America, just cleared its final legal hurdle. 40 billion pounds of copper. 25% of all US demand. Rio Tinto launched a $500 million drilling campaign. Copper is the physical thread that connects every American industrial story. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-03.mp3" length="4840846" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-03-resolution-copper-40-billion-pounds</guid>
+      <pubDate>Fri, 03 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>302</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>40 Billion Pounds of Copper Just Unlocked | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The largest untapped copper deposit in North America just cleared its final legal hurdle. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-03-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-03-clip-1</guid>
+      <pubDate>Fri, 03 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>From Rocks to Rockets. Literally. | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Copper connects every American industrial story. Data centers, transformers, missiles, robots. And the biggest deposit just got cleared. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-03-clip-2.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-03-clip-2</guid>
+      <pubDate>Fri, 03 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

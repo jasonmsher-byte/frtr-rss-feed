@@ -577,6 +577,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>China Has 230 Times Americas Shipbuilding Capacity. We Have 8 Shipyards.</title>
+      <description><![CDATA[China has 230 times the shipbuilding capacity of the United States. The Navy has zero frigates. The Constellation program was canceled after $3 billion. The new budget requests $65.8 billion but America has only 8 large shipyards. Shipbuilding is the hardest industrial challenge in America. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-08.mp3" length="4672826" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-08-shipbuilding-crisis-230-to-1</guid>
+      <pubDate>Wed, 08 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>292</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>230 to 1 Shipbuilding Gap | From Rocks to Rockets Clip</title>
+      <description><![CDATA[China has 230 times the shipbuilding capacity of the US. 474 warships vs 17 added in a decade. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-08-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-08-clip-1</guid>
+      <pubDate>Wed, 08 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A Nuclear Sub Takes a Decade | From Rocks to Rockets Clip</title>
+      <description><![CDATA[You can build a data center in 18 months. A warship takes a decade. And the yards to build them dont exist yet. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-08-clip-2.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-08-clip-2</guid>
+      <pubDate>Wed, 08 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

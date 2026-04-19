@@ -639,6 +639,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>America Is Quadrupling Its Weapons Production. Heres Why.</title>
+      <description><![CDATA[The Pentagon just signed the most significant weapons production expansion deals in decades. THAAD: 96 to 400/year. PAC-3: 600 to 2,000. SM-6: 125 to 500+. Tomahawk: 1,000+/year. Honeywell: $500M energetics. But in WWII, one plant made 1M lbs of explosives per day. Today annual capacity: 8M lbs. The arsenal of democracy is being rebuilt from a lower base than anyone realizes. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-19.mp3" length="4911063" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-19-munitions-surge-arsenal-democracy</guid>
+      <pubDate>Sun, 19 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>306</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Biggest Weapons Deals in a Generation | From Rocks to Rockets Clip</title>
+      <description><![CDATA[THAAD quadrupled. Patriot tripled. Tomahawks over 1,000/year. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-19-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-19-clip-1</guid>
+      <pubDate>Sun, 19 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>8 Days of WWII Production | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Our entire annual explosives output equals roughly 8 days of what one WWII plant produced. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-19-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-19-clip-2</guid>
+      <pubDate>Sun, 19 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

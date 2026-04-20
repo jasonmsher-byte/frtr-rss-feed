@@ -670,6 +670,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Chips Made in Arizona. Shipped to Taiwan. Shipped Back. Thats the Problem.</title>
+      <description><![CDATA[America spent $165 billion to bring chip fabrication home. But chips made at TSMCs Arizona facility are shipped to Taiwan for advanced packaging, then shipped back. There is essentially zero advanced packaging capacity in the US. CoWoS demand growing at 80% CAGR. TSMC building 2 packaging plants in Arizona. Intel partnering with Terafab. We reshored fabrication but forgot packaging. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-20.mp3" length="5119207" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-20-chip-packaging-bottleneck-round-trip</guid>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>319</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Made in Arizona. Shipped to Taiwan. Shipped Back. | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Chips fabricated in Arizona are shipped to Taiwan for packaging, then back to the US. Zero advanced packaging capacity in America. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-20-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-20-clip-1</guid>
+      <pubDate>Mon, 20 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Half a Supply Chain Is a Vulnerability | From Rocks to Rockets Clip</title>
+      <description><![CDATA[We reshored chip fabrication but forgot packaging. Half a supply chain is not a supply chain. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-20-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-20-clip-2</guid>
+      <pubDate>Mon, 20 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

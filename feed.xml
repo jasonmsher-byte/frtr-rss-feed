@@ -701,6 +701,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Gas Turbine Prices Up 195%. Six-Year Lead Times. The AI Booms Next Problem.</title>
+      <description><![CDATA[Wood Mackenzie reports gas turbine prices up 195% since 2019. Lead times: six years. Global orders: 110 GW. Capacity: only 60-70 GW/year. Developers have locked up 63 GW of capacity additions through 2030. GE Vernova, Siemens, and Mitsubishi are racing to expand, but single-crystal superalloy blades take years to qualify. Chips get the headlines. Turbines decide the timeline. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-21.mp3" length="5570185" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-21-gas-turbine-crisis-195-percent</guid>
+      <pubDate>Tue, 21 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>348</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gas Turbines Up 195 Percent | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Gas turbine prices up 195% since 2019. Six-year lead times. Order books sold through 2027. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-21-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-21-clip-1</guid>
+      <pubDate>Tue, 21 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chips Get Headlines. Turbines Set the Clock. | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Every layer of the buildout has its own multi-year lead time. Gas turbines may be the most consequential. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-21-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-21-clip-2</guid>
+      <pubDate>Tue, 21 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

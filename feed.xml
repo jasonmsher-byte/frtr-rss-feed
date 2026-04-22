@@ -732,6 +732,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Gas That Makes Chips. Gone. 30% of Global Supply Disrupted.</title>
+      <description><![CDATA[Helium is the gas that makes every advanced chip on Earth. And 30% of the global supply just disappeared. Prices up 40-100% in weeks. TSMC gets 69% of its helium from Qatar. EUV lithography has no substitute. The US is now the worlds largest helium producer -- generating 81 million cubic meters per year. But new semi-grade capacity takes years to build. This is the 5th major helium shortage since 2006. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-22.mp3" length="4929453" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-22-helium-crisis-semiconductors</guid>
+      <pubDate>Wed, 22 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>308</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>30 Percent of Global Helium Gone | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Helium is the gas that makes every advanced chip on Earth. And 30% of the supply just disappeared. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-22-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-22-clip-1</guid>
+      <pubDate>Wed, 22 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>TSMC Gets 69 Percent From One Country | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The company that makes 90% of the worlds most advanced chips gets 69% of its helium from Qatar. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-22-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-22-clip-2</guid>
+      <pubDate>Wed, 22 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

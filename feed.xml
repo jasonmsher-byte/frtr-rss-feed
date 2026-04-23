@@ -763,6 +763,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Fervo Just Filed to Go Public. Geothermal Is Back. And Big Tech Noticed.</title>
+      <description><![CDATA[Fervo Energy filed its IPO on April 17 to list on Nasdaq as FRVO. They are building Cape Station in Beaver County, Utah, the worlds largest enhanced geothermal plant at 500 MW. $421M financing secured from RBC, Barclays, HSBC, JPM, BofA. PPAs with SoCal Edison and Shell already signed. Enhanced geothermal uses horizontal drilling to access heat anywhere in America. The AI buildout needs 24/7 clean power. The ground under America is always on. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-23.mp3" length="4805737" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-23-fervo-geothermal-ipo-cape-station</guid>
+      <pubDate>Thu, 23 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>300</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Fervo Files to Take Geothermal Public | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Geothermal was left for dead 20 years ago. A Houston company just filed to IPO on it. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-23-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-23-clip-1</guid>
+      <pubDate>Thu, 23 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Fracking for Heat Instead of Oil | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Enhanced geothermal uses horizontal drilling to access heat anywhere in America. The same technology that launched shale. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-23-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-23-clip-2</guid>
+      <pubDate>Thu, 23 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

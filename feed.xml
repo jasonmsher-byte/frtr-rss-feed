@@ -794,6 +794,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>America Just Rebuilt Its Rare Earth Magnet Supply Chain. Texas Is the Center.</title>
+      <description><![CDATA[MP Materials is investing $1.25 billion to build 10X, a rare earth magnet manufacturing campus in Northlake, Texas. Combined with the existing Fort Worth Independence facility, the company will have end-to-end U.S. mine-to-magnet capability for the first time in decades. 10,000 metric tons of NdFeB per year. 1,500 jobs. Commissioning 2028. 10-year Pentagon offtake, GM long-term supply deal, Apple collaboration. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-24.mp3" length="5459007" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-24-mp-materials-10x-rare-earth-magnets</guid>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>341</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chinas 30-Year Magnet Monopoly Just Ended | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Rare earth magnets power every motor, missile, turbine and smartphone. MP Materials just broke the monopoly. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-24-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-24-clip-1</guid>
+      <pubDate>Fri, 24 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pentagon, GM, and Apple Are All Customers | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The 10X campus already has demand visibility from Pentagon, GM, and Apple. Before they have broken ground. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-24-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-24-clip-2</guid>
+      <pubDate>Fri, 24 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

@@ -825,6 +825,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Skydio Just Committed $3.5 Billion to American Drone Manufacturing. Yesterday.</title>
+      <description><![CDATA[Yesterday, April 24, Skydio -- the largest U.S.-based drone manufacturer -- announced a $3.5 billion commitment over five years. Over 2,000 new direct jobs. Over 3,000 supplier jobs. A new facility 5x the size of the current one. And a new program called SkyForge that puts $1B+ into U.S. suppliers. The company already manufactures more dual-use drones than any company outside China and serves every branch of the U.S. military and 29 allied nations. From Rocks to Rockets by Alera Group. Produced with AI tools. Transparency matters. Website: https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-25.mp3" length="4919422" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-25-skydio-3-5-billion-drone-manufacturing</guid>
+      <pubDate>Sat, 25 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>307</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Skydios $3.5 Billion American Drone Push | From Rocks to Rockets Clip</title>
+      <description><![CDATA[The largest U.S.-based drone manufacturer just made the biggest commitment to American drone manufacturing in history. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-25-clip-1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-25-clip-1</guid>
+      <pubDate>Sat, 25 Apr 2026 08:01:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>60,000 Drones, 29 Countries, Every Branch of the Military | From Rocks to Rockets Clip</title>
+      <description><![CDATA[Skydio has shipped 60,000+ flying robots, supports every branch of the U.S. military, and operates in 29 allied nations. Full episode available now.]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-25-clip-2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-25-clip-2</guid>
+      <pubDate>Sat, 25 Apr 2026 08:02:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

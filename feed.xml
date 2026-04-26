@@ -856,6 +856,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Tesla Just Built America&apos;s First Real Lithium Refinery -- in Two Years</title>
+      <description><![CDATA[Tesla's spodumene-to-lithium-hydroxide refinery in Robstown, Texas is the first of its kind on U.S. soil and went from groundbreaking to full integrated startup in roughly two years. We break down why refining -- not mining -- is the actual lithium bottleneck, how Tesla compressed a 5-10 year industrial timeline, the acid-free Metso process that turns waste into concrete feedstock, and what this means for American battery supply chain independence. From Rocks to Rockets by Alera Group. More at https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-26.mp3" length="5978531" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-26-tesla-lithium-refinery</guid>
+      <pubDate>Sun, 26 Apr 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>374</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Clip: From Dirt Lot to Lithium Refinery in Two Years</title>
+      <description><![CDATA[The opening of today's episode -- why Tesla's Robstown, Texas refinery is the first crack in China's lithium chemical monopoly. From Rocks to Rockets by Alera Group. Full episode at https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-26-clip1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-26-clip1-opener</guid>
+      <pubDate>Sun, 26 Apr 2026 08:05:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Clip: The Acid-Free Process That Turns Waste Into Concrete</title>
+      <description><![CDATA[Why Tesla's lithium refinery technology -- designed with Finland's Metso -- is fundamentally different from traditional acid-roasting plants. Acid-free processing, byproduct used in concrete, no hazardous waste pond. From Rocks to Rockets by Alera Group. Full episode at https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-04-26-clip2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-04-26-clip2-acidfree</guid>
+      <pubDate>Sun, 26 Apr 2026 08:10:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

@@ -887,6 +887,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Eight Companies, Eight States, 94 Million: The Map of America&apos;s Nuclear Comeback</title>
+      <description><![CDATA[Last week the Department of Energy quietly awarded 94 million dollars in cost-shared funding to eight American companies in eight different states. Together they map out the entire small modular reactor supply chain America needs to rebuild -- early site permits in New York and Nebraska, reactor pressure vessels in Indiana, uranium fuel pellets in Washington, fuel rod production in North Carolina, large forgings in Illinois and Pennsylvania, and nuclear-grade quality steel in Tennessee. We walk the map, name every grant, and explain why bottleneck-funding beats picking a national champion. Stacked on top of the 800 million in Tier 1 awards to TVA and Holtec from December, this is roughly 900 million dollars of catalytic federal nuclear money in under six months. From Rocks to Rockets by Alera Group. Full source list at https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-05-18.mp3" length="6416134" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-05-18-doe-smr-supply-chain</guid>
+      <pubDate>Mon, 18 May 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>401</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Clip: 94 Million, Eight States -- The DOE&apos;s Bottleneck Map</title>
+      <description><![CDATA[The hook from today's episode -- why this week's DOE announcement was less about the dollar figure and more about the geography. From Rocks to Rockets by Alera Group. Full episode at https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-05-18-clip1.mp3" length="721022" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-05-18-clip1-opener</guid>
+      <pubDate>Mon, 18 May 2026 08:05:00 -0400</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Clip: Walking the SMR Supply Chain Map</title>
+      <description><![CDATA[Site permits, reactor vessels, fuel pellets, and the forgings nobody talks about. The eight grants behind America's nuclear supply chain rebuild. From Rocks to Rockets by Alera Group. Full episode at https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-05-18-clip2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-05-18-clip2-supplychain-map</guid>
+      <pubDate>Mon, 18 May 2026 08:10:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>

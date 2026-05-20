@@ -949,6 +949,37 @@ Spotify: https://open.spotify.com/show/76fng02x1yFx79gAF791S2]]></description>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Why the DOT Wants Nuclear Reactors on Cargo Ships -- and Why That Solves Three American Problems at Once</title>
+      <description><![CDATA[The last American civilian nuclear-powered cargo ship retired in 1972. On May 7, Transportation Secretary Sean Duffy and the U.S. Maritime Administration formally asked American industry to build the next one. We walk through MARAD's Request for Information for small modular reactors on commercial cargo ships, why the language treats nuclear propulsion as commercial infrastructure rather than a demo, and how this initiative solves three American problems at once -- the shipbuilding capacity gap with China, the fuel cost economics of U.S.-flagged commercial fleets, and the strategic catch-up gap MARAD admitted out loud. Plus -- how the August 5 RFI deadline ties directly to last week's DOE 4M SMR supply chain grants, and why those two announcements are coordinated, not coincidental. From Rocks to Rockets by Alera Group. Full source list and verification log at https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-05-20.mp3" length="6595438" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-05-20-marad-nuclear-shipping</guid>
+      <pubDate>Wed, 20 May 2026 08:00:00 -0400</pubDate>
+      <itunes:duration>412</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Clip: The Last US Nuclear Ship Retired in 1972 -- America Just Asked for the Next One</title>
+      <description><![CDATA[The hook from today's episode -- the historical context and what just changed on May 7, 2026. From Rocks to Rockets by Alera Group. Full episode at https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-05-20-clip1.mp3" length="801270" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-05-20-clip1-opener</guid>
+      <pubDate>Wed, 20 May 2026 08:05:00 -0400</pubDate>
+      <itunes:duration>50</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Clip: Three American Problems One Initiative Solves</title>
+      <description><![CDATA[Why MARAD's nuclear shipping RFI hits the shipbuilding crisis, the fuel cost economics, and the strategic posture gap with global competitors all at once. From Rocks to Rockets by Alera Group. Full episode at https://rockstorocket.com]]></description>
+      <enclosure url="https://jasonmsher-byte.github.io/frtr-rss-feed/assets/frtr-2026-05-20-clip2.mp3" length="960931" type="audio/mpeg"/>
+      <guid isPermaLink="false">frtr-2026-05-20-clip2-three-problems</guid>
+      <pubDate>Wed, 20 May 2026 08:10:00 -0400</pubDate>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES END -->
 
   </channel>
